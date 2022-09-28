@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(41, 190, 56);
+    border: solid 1px;
+}
+
+.row{
+    border: solid 1px;
+    background-color: aqua;
+}
+
+#col1{
+    background-color: blueviolet;
+}
+
+#col2{
+    background-color: brown;
+}
+
+#col3{
+    background-color: coral;
+}
